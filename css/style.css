@@ -1,0 +1,18 @@
+.main-head{
+  color: blue;
+}
+.main-h1{
+  color: blue;
+}
+div sup b{
+  color: darkseagreen;
+}
+.link_IMDB{
+  color: gold;
+  text-decoration: underline;
+  text-decoration-color: burlywood;
+  cursor: pointer;
+}
+body {
+  background-color: #7058b8;
+}
